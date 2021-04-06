@@ -1,0 +1,8 @@
+body {
+    overflow-x: hidden;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: rgb(180, 180, 180);
+}
