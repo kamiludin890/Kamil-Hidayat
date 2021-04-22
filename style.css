@@ -2,3 +2,13 @@
     padding-top: 2rem;
     background-color: rgb(180, 180, 180);
 }
+
+.skill {
+    margin: 2rem;
+    align-items: center;
+}
+
+.skills {
+    padding: 0;
+    margin: 0;
+}
