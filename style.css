@@ -34,7 +34,6 @@
 
 @media screen and (max-width: 900px) {
     .column {
-        left: 100px;
         text-align: left;
     }
 }
