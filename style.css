@@ -30,3 +30,9 @@
 .subs {
     list-style-type: square;
 }
+
+@media screen and (max-width: 900px) {
+    .column {
+        margin: 0;
+    }
+}
