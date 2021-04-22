@@ -38,6 +38,9 @@
         padding: 3px;
         border: honeydew;
     }
+    .skill {
+        margin: 1rem;
+    }
 }
 
 .aka {
