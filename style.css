@@ -12,3 +12,9 @@
     padding: 0;
     margin: 0;
 }
+
+.column {
+    margin: 3rem;
+    float: left;
+    width: 300px;
+}
