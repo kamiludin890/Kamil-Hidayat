@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .jumbotron {
     padding-top: 2rem;
     background-color: rgb(180, 180, 180);
@@ -45,4 +49,13 @@
 
 .aka {
     color: black;
+}
+
+@media only screen and (max-width: 600px) {
+    .colum {
+        margin: 1rem;
+    }
+    .skill {
+        margin: 1rem;
+    }
 }
