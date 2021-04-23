@@ -13,6 +13,16 @@
     list-style-type: square;
 }
 
+.edukasi {
+    margin-left: 2rem;
+    align-items: center;
+    list-style-type: square;
+}
+
+.achievment {
+    margin-left: 2rem;
+}
+
 .skills {
     padding: 0;
     margin: 0;
@@ -45,17 +55,15 @@
     .skill {
         margin: 1.5rem;
     }
+    .edukasi {
+        margin: 1.5rem;
+    }
+    .achievment {
+        margin-top: 1.5rem;
+        margin-left: 1rem;
+    }
 }
 
 .aka {
     color: black;
-}
-
-@media only screen and (max-width: 600px) {
-    .colum {
-        margin: 1rem;
-    }
-    .skill {
-        margin: 1rem;
-    }
 }
