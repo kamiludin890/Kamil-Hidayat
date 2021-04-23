@@ -60,10 +60,19 @@
     }
     .achievment {
         margin-top: 1.5rem;
-        margin-left: 1rem;
+        margin-left: 0;
     }
 }
 
 .aka {
     color: black;
+}
+
+@media screen and (max-width: 1080px) {
+    .edukasi {
+        margin: 0.5rem;
+    }
+    .achievment {
+        margin-left: 0;
+    }
 }
